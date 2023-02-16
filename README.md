@@ -34,6 +34,6 @@
 - :dart: Truco: "Explorar :fire: y explorar :bomb: con la tecnología"
 - :trophy: En busca de un lugar en el sector IT en Telefónica Hispam
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left">:heart: Let's get connected:)</h2>
 
 
