@@ -36,4 +36,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-carlosnhall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/carlosnhall/) [![Twitter Badge](https://img.shields.io/badge/-@GURUCHALL-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/GURUCHALL) [![Facebook Badge](https://img.shields.io/badge/-@carloshall-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=(https://www.facebook.com/carlos.hall.524))](https://www.facebook.com/carlos.hall.524) [![Linkedin Badge](https://img.shields.io/badge/-Carlos Hall?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
+
